@@ -1,0 +1,26 @@
+{
+    "name": "garyburge/jQueryHiglight",
+    "description": "The Yii extension jQueryHighlight by Harry Tang, packaged for composer.",
+    "keywords": ["yii", "module"],
+    "homepage": "https://github.com/garyburge/jQueryHiglight",
+    "type": "yii-extension",
+    "license": "BSD-3-Clause",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Harry Tang",
+        },
+        {
+            "name": "Gary Burge",
+            "email": "garyburge@garyburge.com"
+        }
+    ],
+    "autoload": {
+            "psr-0": {
+                "jQueryHiglight": ""
+            }
+    },
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
